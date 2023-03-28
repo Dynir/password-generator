@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# password-generator
 Password Generator on python with Selenium.
 =======
-# Password Generator
 
 >Setup
 > ```shell
@@ -11,4 +8,3 @@ Password Generator on python with Selenium.
 > pip3 install -r requirments.txt
 > python main.py
 > ```
->>>>>>> dd910f3 (2 commit)
